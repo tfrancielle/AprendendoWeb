@@ -78,15 +78,15 @@
          <div id="item-3" class="control-operator"></div>
 		   
          <figure class="item">
-             <h1><img src="imagens/1.jpg"></h1>
+             <h1><img src="imagens/1.jpg" width="100%"></h1>
          </figure>
 		   
          <figure class="item">
-                 <h1><img src="imagens/2.jpg"></h1>
+                 <h1><img src="imagens/2.jpg" width="100%"></h1>
          </figure>
 		   
          <figure class="item">
-             <h1><img src="imagens/3.jpg"></h1>
+             <h1><img src="imagens/3.jpg" width="100%"></h1>
          </figure>
 		   
          <div class="controls">
