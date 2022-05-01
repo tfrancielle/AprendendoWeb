@@ -1,2 +1,3 @@
-# ProjetosPessoais
-Nesse repositório irei compartilhar meus primeiros projetos utilizando as linguagens: HTML5, CSS3, Bootstrap, Javascript, ReactJS, JAVA/SpringBoot.
+# Dando início ao aprendizado de desenvolvimento Web.
+
+Nessa etapa inicial tive a introdução sobre: linguagem de marcação: HTML, Javascript, jQuery e PHP.
